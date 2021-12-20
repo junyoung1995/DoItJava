@@ -1,6 +1,6 @@
 package chaptor4;
 
-public class Chatpor4Quiz1_2 {
+public class Chaptor4Quiz1_2 {
 	public static void main(String[] args) {
 		int num1 = 10;
 		int num2 = 2;
